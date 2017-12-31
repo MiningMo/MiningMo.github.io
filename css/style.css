@@ -1,0 +1,55 @@
+body{
+	background-color:  darkslategray;
+	overflow: 
+}
+
+.coinhive-miner{
+	width: 256px;
+	height: 145px;
+	margin: auto;
+	border: 1px solid #000;
+}
+
+.ad{
+	border-top-right-radius: 14px;
+	border-top-left-radius: 14px;
+	width: 300px;
+	height: 680px;
+	border: 2px solid black;
+	
+	float: left;
+	display: inline-block;
+}
+
+.titulo{
+	text-align: center;
+	border-top-right-radius: 14px;
+	border-top-left-radius: 14px;
+	background-color: darkgray;
+	font-family: arial;
+	color: white;
+	padding-top: 10px;
+	padding-left: 20px;
+	padding-right: 20px;	
+	padding-bottom: 10px;
+	display: block;
+}
+
+#centro{
+	width: 50%;
+	display: inline-block;
+	margin: auto;
+	
+	
+}
+
+.banner{
+	width: 322px;
+	height: 102px;
+	border: 1px solid black;
+}
+.cabecario{
+	width: 730px;
+	height: 92px;
+	border: 1px solid black;
+}
